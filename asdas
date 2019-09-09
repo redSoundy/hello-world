@@ -7,3 +7,7 @@ asdahs
 阿萨德好可怜
 
 var name = 'lisi';
+
+function say(){
+  console.log(name);
+}
